@@ -20,7 +20,7 @@ https://github.com/workednicee-ship-it/ono-tebe-nado-ad/tree/main
 
 ### Ссылки
 
-- URL решения: [Github](https://github.com/workednicee-ship-it/ono-tebe-nado-ad/tree)
+- URL решения: [Github](https://github.com/workednicee-ship-it/ono-tebe-nado-ad)
 
 ## Автор
 
