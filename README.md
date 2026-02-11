@@ -20,11 +20,11 @@ https://github.com/workednicee-ship-it/ono-tebe-nado-ad/tree/main
 
 ### Ссылки
 
-- URL решения: [Github](https://github.com/buchnevartem-maker/ono-tebe-nado)
+- URL решения: [Github](https://github.com/https://github.com/workednicee-ship-it/ono-tebe-nado-ad/tree)
 
 ## Автор
 
-- Github - [buchnevartem-maker](https://github.com/buchnevartem-maker)
+- Github - [buchnevartem-maker](https://github.com/workednicee-ship-it)
 
 ## Благодарность
 
